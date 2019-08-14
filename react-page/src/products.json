@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Sea Moss Capsules",
+        "description": "Promotes a healthy brain, thyroid, bones, lungs, energy levels, immune response and mood. 140 vegetable Sea Moss capsules. Made from wild crafted herbs.",
+        "price": "$35.99",
+        "imageURL":"https://i.etsystatic.com/19941586/r/il/11ec33/1845893774/il_1588xN.1845893774_myk3.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "GreenLove Capsules",
+        "description": "Wonderful daily supplement for overall wellbeing. Ingredients: Nettle, Tila, Nopal, Bladderwrack. Made from wild crafted herbs.",
+        "price": "$26.00",
+        "imageURL":"https://i.etsystatic.com/19941586/r/il/bf1db8/1902721953/il_1588xN.1902721953_mapb.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "Bladderwrack Capsules",
+        "description": "Rich in nutrients and other good factors including vitamin A, B-complex, C, E, G, calcium, iodine, magnesium, potassium, iron, silicon, and sulfur. Made from wild crafted herbs. ",
+        "price": "$12.00",
+        "imageURL": "https://i.etsystatic.com/19941586/r/il/3835df/1845908230/il_1588xN.1845908230_hvhm.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "Chlorella Capsules",
+        "description": "Rich in nutrients and other good factors including vitamin A, B-complex, C, E, G, calcium, iodine, magnesium, potassium, iron, silicon, and sulfur. Made from wild crafted herbs.",
+        "price": "$36.00",
+        "imageURL":"https://i.etsystatic.com/17940532/r/il/c4a34a/1801377670/il_1588xN.1801377670_t774.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "Maca Root Capsules",
+        "description": "Rich in nutrients and other good factors including vitamin A, B-complex, C, E, G, calcium, iodine, magnesium, potassium, iron, silicon, and sulfur. Made from wild crafted herbs.",
+        "price": "$15.00",
+        "imageURL":"https://i.etsystatic.com/13181199/r/il/13cb5d/1578133991/il_1588xN.1578133991_o23y.jpg"
+    },
+
+    {
+        "id": 6,
+        "name": "Brain Blast Blend Capsules",
+        "description": "Rich in nutrients and other good factors including vitamin A, B-complex, C, E, G, calcium, iodine, magnesium, potassium, iron, silicon, and sulfur. Made from wild crafted herbs.",
+        "price": "$40.00",
+        "imageURL":"https://i.etsystatic.com/17811829/r/il/42364c/1570373497/il_1588xN.1570373497_jc3h.jpg"
+    },
+
+    {
+        "id": 7,
+        "name": "Moringa Root Capsules",
+        "description": "Rich in nutrients and other good factors including vitamin A, B-complex, C, E, G, calcium, iodine, magnesium, potassium, iron, silicon, and sulfur. Made from wild crafted herbs.",
+        "price": "$22.00",
+        "imageURL":"https://i.etsystatic.com/8834300/r/il/481a8d/1767669367/il_1588xN.1767669367_sda5.jpg"
+    },
+
+    {
+        "id": 8,
+        "name": "Mullein Leaf Tea",
+        "description": "Rich in nutrients and other great factors including iron.Each bag contains 4 oz of wildcrafted herbs.",
+        "price": "$25.00",
+        "imageURL":"https://i.etsystatic.com/12995391/r/il/c43f96/1468376542/il_1588xN.1468376542_agu7.jpg"
+    },
+
+    {
+        "id": 9,
+        "name": "Colon Cleanser",
+        "description": "Ingredients include Cascara Sagrada, Ginger, Rhubarb Root, Prodigiosa and Blessed Thistle. Each bag contains 150 vegetable capsules and is made from wildcrafted herbs.",
+        "price": "$45.00",
+        "imageURL":"https://i.etsystatic.com/20402602/r/il/cc7bb6/1957617465/il_1588xN.1957617465_ad55.jpg"
+    },
+
+    {
+        "id": 10,
+        "name": "Burdock Root Capsules",
+        "description": "Rich in nutrients and other great factors including iron.Each bag contains 4 oz of wildcrafted herbs.",
+        "price": "$15.00",
+        "imageURL":"https://i.etsystatic.com/17811829/r/il/068aa2/1521555532/il_1588xN.1521555532_1pnh.jpg"
+    },
+
+    {
+        "id": 11,
+        "name": "Lymph Flush",
+        "description": "Supports the lymphatic system, and it also supports the natural detoxification functions of the mucous membranes. Each bag contains 180 vegetable capsules and is made from wildcrafted and organic herbs. Ingredients include Palo Mulato, Cascara Sagrada, Hydrangea and Red Clover.",
+        "price": "$45.00",
+        "imageURL":"https://i.etsystatic.com/17811829/r/il/22c6c4/1521573162/il_1588xN.1521573162_8bcs.jpg"
+    },
+
+    {
+        "id": 12,
+        "name": "Nerve & Cell Rebuild",
+        "description": "Restores optimal nervous and immune system health by supporting normal mood, energy levels and overall immune function. Each bag contains 200 vegetable capsules and is made from wildcrafted herbs.  Ingredients include hops, catnip and valerian root.",
+        "price": "$45.00",
+        "imageURL":"http://www.mandidhealthcare.com/wp-content/uploads/2018/08/capsule-1.jpg"
+    }
+    
+]
